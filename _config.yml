@@ -25,9 +25,9 @@ author:
   name             : "Jianhong Chen"
   pronouns         : "He/Him" 
   bio              : "PhD student in Mechanical and Industrial Engineering at Northeastern University"
-  location         : "Boston,MA"
+  location         : "Boston, MA"
   employer         : "Northeastern University"
-  uri              : # URL
+  # uri              : # URL
   email            : "chen.jianho@northeastern.edu" 
 
   # Academic websites
